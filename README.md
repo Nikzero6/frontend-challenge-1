@@ -6,9 +6,6 @@
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -20,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: https://github.com/Nikzero6/frontend-challenge-1
 - Live Site URL: (https://your-live-site-url.com)
 
 ## My process
@@ -29,12 +26,10 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
 
 ### What I learned
 
-viewport for different display sizes.
+Using viewport for different display sizes.
 
 ### Continued development
 
