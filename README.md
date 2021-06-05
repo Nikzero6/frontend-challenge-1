@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Nikzero6/frontend-challenge-1
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: https://nikzero6.github.io/frontend-challenge-1/
 
 ## My process
 
